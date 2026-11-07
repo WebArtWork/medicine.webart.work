@@ -1,17 +1,17 @@
 {
 	"_id": "",
-	"name": "Chess training",
-	"title": "Chess training | Daily puzzles, tactics and game analysis",
-	"description": "Improve your chess with daily puzzles, tactics and calculation practice. Study real games, analyze positions and build a weekly training habit.",
-	"image": "https://chess.webart.work/logo.png",
-	"siteUrl": "https://chess.webart.work",
+	"name": "Medicine",
+	"title": "Medicine | Learn the science of healthcare",
+	"description": "Study anatomy, physiology, disease and medical reasoning through structured lessons and fictional clinical cases.",
+	"image": "https://medicine.webart.work/logo.png",
+	"siteUrl": "https://medicine.webart.work",
 	"defaultSeo": {
 		"image": "/seo/dashboard.jpg"
 	},
 	"pageSeo": {
 		"/": {
-			"title": "Chess training | Daily puzzles, tactics and game analysis",
-			"description": "Improve your chess with daily puzzles, tactics and calculation practice. Study real games, analyze positions and build a weekly training habit.",
+			"title": "Medicine | Learn the science of healthcare",
+			"description": "Study anatomy, physiology, disease and medical reasoning through structured lessons and fictional clinical cases.",
 			"image": "/seo/dashboard.jpg"
 		},
 		"/practice": {
@@ -325,8 +325,8 @@
 			"image": "/seo/theory-nimzo-indian-defense.jpg"
 		},
 		"/library": {
-			"title": "Chess library",
-			"description": "Replay real chess games, analyze any position with Stockfish and keep your saved games in one place: everything you need to study chess.",
+			"title": "Learning library",
+			"description": "Explore your Medicine learning library.",
 			"image": "/seo/library-hub.jpg"
 		},
 		"/library/board": {
@@ -352,52 +352,52 @@
 		},
 		"/privacy": {
 			"title": "Privacy policy",
-			"description": "What Chess training stores, why it stores it, which services it uses and how to delete your account and all of your data.",
+			"description": "Learn how Medicine handles account information and learning data.",
 			"image": "/seo/privacy.jpg"
 		},
 		"/support": {
 			"title": "Support",
-			"description": "Get help with Chess training: contact us, report a bug, restore your progress or delete your account and data.",
+			"description": "Contact the Medicine team for help with the learning platform.",
 			"image": "/seo/support.jpg"
 		},
 		"/licenses": {
 			"title": "Licenses and credits",
-			"description": "Chess training is free software under the GPL-3.0. See its source code and the projects it builds on, such as Stockfish and Chessground.",
+			"description": "Software licenses and acknowledgements for Medicine.",
 			"image": "/seo/licenses.jpg"
 		},
 		"/classes": {
-			"title": "Your chess classes and lesson schedule",
-			"description": "Find the chess classes you lead or attend. Check upcoming lessons, manage your groups and continue learning chess together.",
+			"title": "Your classes",
+			"description": "View your learning groups and class schedule.",
 			"image": "/seo/class.jpg",
 			"robots": "noindex, nofollow"
 		},
 		"/class": {
-			"title": "Chess class details and members",
-			"description": "View your chess class schedule, members and upcoming lessons. Join the next group session or manage the class you lead.",
+			"title": "Class details",
+			"description": "View your class schedule and members.",
 			"image": "/seo/class-detail.jpg",
 			"robots": "noindex, nofollow"
 		},
 		"/lesson": {
-			"title": "Live chess lesson with your class",
-			"description": "Join your class for a live chess lesson. Work through positions together, follow the lesson activities and play training games with your group.",
+			"title": "Live lesson",
+			"description": "Join your group for a shared learning session.",
 			"image": "/seo/lesson.jpg",
 			"robots": "noindex, nofollow"
 		},
 		"/class/create": {
-			"title": "Plan your chess class",
-			"description": "Set up or edit a chess class: choose a name, lesson times and a recurring schedule for your group.",
+			"title": "Plan a class",
+			"description": "Set up a class and choose a learning schedule.",
 			"image": "/seo/class-create.jpg",
 			"robots": "noindex, nofollow"
 		},
 		"/sign-in": {
 			"title": "Sign in",
-			"description": "Sign in to Chess training with your Google account to save games and keep track of your chess practice.",
+			"description": "Sign in to your Medicine learning account.",
 			"image": "/seo/sign-in.jpg",
 			"robots": "noindex, nofollow"
 		},
 		"/profile": {
-			"title": "Your chess training profile",
-			"description": "View your Chess training profile, review your practice progress and manage your account preferences.",
+			"title": "Your learning profile",
+			"description": "Manage your Medicine account and learning preferences.",
 			"image": "/seo/profile.jpg",
 			"robots": "noindex, nofollow"
 		}
