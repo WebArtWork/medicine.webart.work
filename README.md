@@ -183,15 +183,15 @@ stored lines.
 - Sign-in is Google only, through Firebase Auth (project `chess-d92e1`; the public web config is in
   `src/environments/environment.prod.ts`). Firebase loads lazily in the browser after first paint.
 - Firestore holds `users/{uid}` (name, email, photo) and `users/{uid}/games/{id}` (games saved from
-  the Library). Only the owner can read, create or delete them; rules are in `firestore.rules`.
-  Deploy rules with `npm run rules` (needs the Firebase CLI with access to the project).
+  the Library). Only the owner can read, create or delete them; rules are in the shared `firestore.rules` at the workspace root.
+  Deploy rules with `npm run rules` from the workspace root (needs the Firebase CLI with access to the project).
 - In Firebase, Google sign-in must be enabled and `chess.webart.work` listed under
   Authentication > Settings > Authorized domains.
 - Daily results, puzzle practice stats and theory self-check results stay in the browser
   (`localStorage`), signed in or not.
 - **Delete account** on the profile asks for Google sign-in again, then deletes `users/{uid}` with its
   `games`, `events` and `progress`, the Auth user and the `wawchess_*` keys on that device. The rules
-  must allow those deletes, so run `npm run rules` after changing `firestore.rules`.
+  must allow those deletes, so run `npm run rules` from the workspace root after changing its `firestore.rules`.
 - Keep `/privacy` (`src/app/pages/privacy/`) in step with whatever the app stores.
 
 ## Theory texts

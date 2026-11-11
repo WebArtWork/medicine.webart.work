@@ -32,5 +32,6 @@
 	"We keep account data until you delete the account.": "Ми зберігаємо дані облікового запису, доки ви його не видалите.",
 	"The app is not aimed at children under 13. Signing in needs a Google or Apple account, which follows that provider’s own age rules.": "Застосунок не призначений для дітей віком до 13 років. Для входу потрібен обліковий запис Google або Apple, на який поширюються вікові обмеження відповідного сервісу.",
 	"Changes": "Зміни",
-	"If we change what we collect, we update this page and the date at the top before the change takes effect.": "Якщо ми змінимо те, які дані збираємо, ми оновимо цю сторінку й дату вгорі ще до того, як зміна набуде чинності."
+	"If we change what we collect, we update this page and the date at the top before the change takes effect.": "Якщо ми змінимо те, які дані збираємо, ми оновимо цю сторінку й дату вгорі ще до того, як зміна набуде чинності.",
+	"The account is shared by every app of the learning ecosystem, so all your data from all of these apps is deleted, not only the data of this one.": "Обліковий запис спільний для всіх застосунків навчальної екосистеми, тому видаляються всі ваші дані з усіх цих застосунків, а не лише з цього."
 }

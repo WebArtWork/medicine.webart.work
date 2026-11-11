@@ -894,5 +894,6 @@
 	"That QR code is not an email address.": "Цей QR-код не містить адреси пошти.",
 	"This browser cannot use the camera.": "Цей браузер не може користуватися камерою.",
 	"Camera access is blocked. Allow it for this site and try again.": "Доступ до камери заблоковано. Дозвольте його для цього сайту й спробуйте ще раз.",
-	"Could not open the camera.": "Не вдалося відкрити камеру."
+	"Could not open the camera.": "Не вдалося відкрити камеру.",
+	"Your account is shared by every app of the learning ecosystem, so this deletes your data from all of them.": "Ваш обліковий запис спільний для всіх застосунків навчальної екосистеми, тому це видалить ваші дані в усіх них."
 }
